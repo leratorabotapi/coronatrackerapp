@@ -1,4 +1,8 @@
-## 'Introduction'
+## Introduction
+Thus is a ReactJS project built as a way to help me (@lerato) to learn how to manipulate and showcase data from an API
+
+
+### `Description`
 This app uses an API that displays covid 19 stats. 
 
 A side project of mine that I would really like input on.

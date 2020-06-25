@@ -11,7 +11,7 @@ class Headers extends React.Component {
       
     <Grid container spacing={10}>
         <Grid item xs={12}>
-        
+      
         </Grid>
         
         <Grid item xs={8}>
