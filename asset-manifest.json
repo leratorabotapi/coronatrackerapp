@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/leratorabotapi/coronatrackerapp/static/css/main.4c0bfd01.chunk.css",
-    "main.js": "/leratorabotapi/coronatrackerapp/static/js/main.c53a34d2.chunk.js",
-    "main.js.map": "/leratorabotapi/coronatrackerapp/static/js/main.c53a34d2.chunk.js.map",
-    "runtime-main.js": "/leratorabotapi/coronatrackerapp/static/js/runtime-main.28483a3c.js",
-    "runtime-main.js.map": "/leratorabotapi/coronatrackerapp/static/js/runtime-main.28483a3c.js.map",
-    "static/js/2.fdeccded.chunk.js": "/leratorabotapi/coronatrackerapp/static/js/2.fdeccded.chunk.js",
-    "static/js/2.fdeccded.chunk.js.map": "/leratorabotapi/coronatrackerapp/static/js/2.fdeccded.chunk.js.map",
-    "index.html": "/leratorabotapi/coronatrackerapp/index.html",
-    "precache-manifest.4e066b8973b3a91a340357c97c0ffd0c.js": "/leratorabotapi/coronatrackerapp/precache-manifest.4e066b8973b3a91a340357c97c0ffd0c.js",
-    "service-worker.js": "/leratorabotapi/coronatrackerapp/service-worker.js",
-    "static/css/main.4c0bfd01.chunk.css.map": "/leratorabotapi/coronatrackerapp/static/css/main.4c0bfd01.chunk.css.map",
-    "static/js/2.fdeccded.chunk.js.LICENSE.txt": "/leratorabotapi/coronatrackerapp/static/js/2.fdeccded.chunk.js.LICENSE.txt",
-    "static/media/bacteria.png": "/leratorabotapi/coronatrackerapp/static/media/bacteria.12701290.png",
-    "static/media/health.png": "/leratorabotapi/coronatrackerapp/static/media/health.9cff7360.png",
-    "static/media/tombstone.png": "/leratorabotapi/coronatrackerapp/static/media/tombstone.e694ba05.png",
-    "static/media/virus.png": "/leratorabotapi/coronatrackerapp/static/media/virus.b035df7a.png"
+    "main.css": "/coronatrackerapp/static/css/main.4c0bfd01.chunk.css",
+    "main.js": "/coronatrackerapp/static/js/main.62a1f08f.chunk.js",
+    "main.js.map": "/coronatrackerapp/static/js/main.62a1f08f.chunk.js.map",
+    "runtime-main.js": "/coronatrackerapp/static/js/runtime-main.b8ef1c30.js",
+    "runtime-main.js.map": "/coronatrackerapp/static/js/runtime-main.b8ef1c30.js.map",
+    "static/js/2.7d341be7.chunk.js": "/coronatrackerapp/static/js/2.7d341be7.chunk.js",
+    "static/js/2.7d341be7.chunk.js.map": "/coronatrackerapp/static/js/2.7d341be7.chunk.js.map",
+    "index.html": "/coronatrackerapp/index.html",
+    "precache-manifest.33e025dd5bd9d70f5c7d6ba9afd08fb6.js": "/coronatrackerapp/precache-manifest.33e025dd5bd9d70f5c7d6ba9afd08fb6.js",
+    "service-worker.js": "/coronatrackerapp/service-worker.js",
+    "static/css/main.4c0bfd01.chunk.css.map": "/coronatrackerapp/static/css/main.4c0bfd01.chunk.css.map",
+    "static/js/2.7d341be7.chunk.js.LICENSE.txt": "/coronatrackerapp/static/js/2.7d341be7.chunk.js.LICENSE.txt",
+    "static/media/bacteria.png": "/coronatrackerapp/static/media/bacteria.12701290.png",
+    "static/media/health.png": "/coronatrackerapp/static/media/health.9cff7360.png",
+    "static/media/tombstone.png": "/coronatrackerapp/static/media/tombstone.e694ba05.png",
+    "static/media/virus.png": "/coronatrackerapp/static/media/virus.b035df7a.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.28483a3c.js",
-    "static/js/2.fdeccded.chunk.js",
+    "static/js/runtime-main.b8ef1c30.js",
+    "static/js/2.7d341be7.chunk.js",
     "static/css/main.4c0bfd01.chunk.css",
-    "static/js/main.c53a34d2.chunk.js"
+    "static/js/main.62a1f08f.chunk.js"
   ]
 }
