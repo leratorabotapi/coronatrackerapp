@@ -5,8 +5,9 @@ Thus is a ReactJS project built as a way to help me (@lerato) to learn how to ma
 ### `Description`
 This app uses an API that displays covid 19 stats. 
 
-A side project of mine that I would really like input on.
+This app also relies on the Material-UI libray for some components and styling
 
+A side project of mine that I would really like input on.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
