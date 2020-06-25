@@ -1,8 +1,11 @@
+## 'Introduction'
+This app uses an API that displays covid 19 stats. 
+
+A side project of mine that I would really like input on.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
-
-In the project directory, you can run:
 
 ### `npm start`
 

@@ -1,5 +1,5 @@
 import React from 'react';
-import { Grid, Typography, Box, Button } from '@material-ui/core';
+import { Grid, Typography, Box, Button, Link } from '@material-ui/core';
 
 import CovidIcon from '../image/bacteria.png';
 
@@ -28,17 +28,21 @@ class Headers extends React.Component {
         </Typography>
         </Grid>
         <Grid item xs={2}>
-        <Button variant="outlined" size="small" color="default" style={{ 
+        <Button variant="outlined" size="small" style={{ 
             width: 150
         }}>
-          Join This Project
+          <Link color="textPrimary" underline="none" href="https://github.com/leratorabotapi/coronatrackerapp" >
+          JOIN THIS PROJECT
+       </Link>
         </Button>
         </Grid>
         <Grid item xs={2}>
-        <Button variant="outlined" size="small" color="default" href="https://github.com/mathdroid/covid19"  style={{ 
+        <Button variant="outlined" size="small" style={{ 
             width: 150
         }}>
-          Connect To This API
+          <Link color="textPrimary" underline="none" href="https://github.com/mathdroid/covid19" >
+          CONNECT TO THE API
+       </Link>
         </Button>
         </Grid>
       </Grid>
