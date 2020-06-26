@@ -7,12 +7,9 @@ class Headers extends React.Component {
   render(){
     return (
      <div>
-    <Box width="1" display="flex" p={1} my={0.5}>
+    <Box width="1" display="flex" p={1} my={5}>
       
     <Grid container spacing={10}>
-        <Grid item xs={12}>
-      
-        </Grid>
         
         <Grid item xs={8}>
         <Typography variant="h4" component="h1">
