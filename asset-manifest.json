@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/coronatrackerapp/static/css/main.4c0bfd01.chunk.css",
-    "main.js": "/coronatrackerapp/static/js/main.62a1f08f.chunk.js",
-    "main.js.map": "/coronatrackerapp/static/js/main.62a1f08f.chunk.js.map",
+    "main.css": "/coronatrackerapp/static/css/main.010eb76d.chunk.css",
+    "main.js": "/coronatrackerapp/static/js/main.18005e89.chunk.js",
+    "main.js.map": "/coronatrackerapp/static/js/main.18005e89.chunk.js.map",
     "runtime-main.js": "/coronatrackerapp/static/js/runtime-main.b8ef1c30.js",
     "runtime-main.js.map": "/coronatrackerapp/static/js/runtime-main.b8ef1c30.js.map",
-    "static/js/2.7d341be7.chunk.js": "/coronatrackerapp/static/js/2.7d341be7.chunk.js",
-    "static/js/2.7d341be7.chunk.js.map": "/coronatrackerapp/static/js/2.7d341be7.chunk.js.map",
+    "static/js/2.20a69bc0.chunk.js": "/coronatrackerapp/static/js/2.20a69bc0.chunk.js",
+    "static/js/2.20a69bc0.chunk.js.map": "/coronatrackerapp/static/js/2.20a69bc0.chunk.js.map",
     "index.html": "/coronatrackerapp/index.html",
-    "precache-manifest.33e025dd5bd9d70f5c7d6ba9afd08fb6.js": "/coronatrackerapp/precache-manifest.33e025dd5bd9d70f5c7d6ba9afd08fb6.js",
+    "precache-manifest.1e591fc7b6e528e2a916821fe0c998a7.js": "/coronatrackerapp/precache-manifest.1e591fc7b6e528e2a916821fe0c998a7.js",
     "service-worker.js": "/coronatrackerapp/service-worker.js",
-    "static/css/main.4c0bfd01.chunk.css.map": "/coronatrackerapp/static/css/main.4c0bfd01.chunk.css.map",
-    "static/js/2.7d341be7.chunk.js.LICENSE.txt": "/coronatrackerapp/static/js/2.7d341be7.chunk.js.LICENSE.txt",
+    "static/css/main.010eb76d.chunk.css.map": "/coronatrackerapp/static/css/main.010eb76d.chunk.css.map",
+    "static/js/2.20a69bc0.chunk.js.LICENSE.txt": "/coronatrackerapp/static/js/2.20a69bc0.chunk.js.LICENSE.txt",
     "static/media/bacteria.png": "/coronatrackerapp/static/media/bacteria.12701290.png",
     "static/media/health.png": "/coronatrackerapp/static/media/health.9cff7360.png",
     "static/media/tombstone.png": "/coronatrackerapp/static/media/tombstone.e694ba05.png",
@@ -19,8 +19,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.b8ef1c30.js",
-    "static/js/2.7d341be7.chunk.js",
-    "static/css/main.4c0bfd01.chunk.css",
-    "static/js/main.62a1f08f.chunk.js"
+    "static/js/2.20a69bc0.chunk.js",
+    "static/css/main.010eb76d.chunk.css",
+    "static/js/main.18005e89.chunk.js"
   ]
 }
